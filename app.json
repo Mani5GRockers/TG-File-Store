@@ -8,9 +8,9 @@
     "Files"
   ],
   "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
-  "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
-  "repository": "https://github.com/Ns-Bots/TG-File-Store",
+  "success_url": "https://github.com/Mani5GRockers/TG-File-Store",
+  "website": "https://github.com/Mani5GRockers/TG-File-Store",
+  "repository": "https://github.com/Mani5GRockers/TG-File-Store",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -59,7 +59,7 @@
   }
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Mani5GRockers/heroku-buildpack-ffmpeg-latest"
   }, {
     "url": "heroku/python"
   }],
